@@ -12,7 +12,8 @@ you will redirect to :
 
 now click on :
 
-![Screenshot (585)](https://github.com/sakshijain1234/vendor_management/assets/82942988/583d794a-53b8-48d0-9eb3-423bfe1a4e34)
+![Screenshot (584)](https://github.com/sakshijain1234/vendor_management/assets/82942988/4f92fc73-33ae-4147-a754-413cdb5f6601)
+
 
 you will redirect to :
 
