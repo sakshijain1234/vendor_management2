@@ -20,7 +20,7 @@ password: 05Sakshi*hello</p>
 
 ![Screenshot (585)](https://github.com/sakshijain1234/vendor_management/assets/82942988/18e3b6f1-cf47-4c41-b6e3-747a4b84429d)
 
-<h3you can change request method from:></h3>
+<h3>you can change request method from:</h3>
 
 ![Screenshot (586)](https://github.com/sakshijain1234/vendor_management/assets/82942988/7f59c849-084b-42a4-ac01-d23086c93000)
 
@@ -32,15 +32,15 @@ git clone "https://github.com/sakshijain1234/vendor_management"
 
 2.)Run the following commands in the command prompt with opening the vendor_management folder:
 
--> virtualenv env<br>
--> cd env\scripts<br>
--> activate<br>
--> cd..<br>
- -> cd..<br>
--> pip install django<br>
--> django-admin startproject vendor_management<br>
--> cd vendor_management<br>
--> pip install djangorestframework</p>
+virtualenv env<br>
+cd env\scripts<br>
+activate<br>
+cd..<br>
+cd..<br>
+pip install django<br>
+django-admin startproject vendor_management<br>
+cd vendor_management<br>
+pip install djangorestframework</p>
 
 
 
