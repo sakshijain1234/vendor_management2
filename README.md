@@ -1,9 +1,11 @@
 Prerequisites:
-Python 10.0.3 version installed on your system
+Python 10.0.3 version installed on your system, 
 `pip` virtual environment
 
-signin to postman to test api's
-username: sjsakshi20.05@gmail.com
+signin to postman to test api's:  
+
+https://identity.getpostman.com/login
+username: sjsakshi20.05@gmail.com  
 password: 05Sakshi*hello
 
 you will redirect to :
