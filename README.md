@@ -2,9 +2,13 @@
 <p>Python 10.0.3 version installed on your system, <br>
 `pip` virtual environment</p>
 
-<h2>signin to postman to test api's: </h2>
+<h2>get to postman to test api's: </h2>
 
- <p>https://identity.getpostman.com/login<br>
+<p>download postman from:<br>
+https://www.postman.com/downloads/</p>
+
+<h2>signin to postman to test api's: </h2>
+ <p>
 username: sjsakshi20.05@gmail.com<br>
 password: 05Sakshi*hello</p>
 
