@@ -4,11 +4,12 @@
 
 <h2>signin to postman to test api's: </h2>
 
- <p>https://identity.getpostman.com/login
-username: sjsakshi20.05@gmail.com  <br>
+ <p>https://identity.getpostman.com/login<br>
+username: sjsakshi20.05@gmail.com<br>
 password: 05Sakshi*hello</p>
 
 <h2>you will redirect to :</h2>
+
 ![Screenshot (584)](https://github.com/sakshijain1234/vendor_management/assets/82942988/770a1c31-e6fd-4051-b9c4-dfd10f95ae3d)
 
 <h3>now click on :</h3>
